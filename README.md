@@ -4,10 +4,10 @@ WebSite for a Restaurant
 
 ## Partners
 
-- **Eduardo Pritsch Kasper** (Product Owner)
+- **Eduardo Pritsch Kasper** (P.O)
+- **Wilian Bordon** (Lt)
 - **Fabricio Gonzalez Bez Fontana** (Dev)
-- **Wilian Bordon** (Dev)
-- **Henrique Gonçalves de Oliveira Ferreira** (Dev)
+- **Eduardo Henrique Fritsche** (Dev)
 
 ## Functional Requirements
 
